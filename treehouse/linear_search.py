@@ -1,5 +1,3 @@
-
-
 def linear_search(list, target):
     """
     Returns the index position of the target if found, else returns None
@@ -8,7 +6,6 @@ def linear_search(list, target):
         if list[i] == target:
             return i
     return None
-
 
 
 def verify(index):
